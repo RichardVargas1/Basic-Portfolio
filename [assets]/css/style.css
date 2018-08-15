@@ -17,11 +17,35 @@ footer{
     text-align: center;
     background: #666666;
     color: white;
+    position: absolute;
+    padding: 5px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+
 }
 
 h2 {
     font-family: Arial;
     color: #4aaaa5; 
+}
+
+h3 {
+    font-family: Arial;
+    color:#777777;
+    text-align: right;
+    margin-right: 200px;
+    float: right
+}
+
+h5 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    font-size: 15px;
 }
 
 html {
@@ -32,7 +56,8 @@ html {
     background-size: cover;
 }
          
-#Bio {
+#Bio,
+#contact-info {
     font-size: 19px;
     background-color: white;
     padding: 20px;
@@ -49,11 +74,4 @@ p {
     color: #777777;
     width: 70%;
     float: right;
-}
-
-#contact{
-    float: right;
-    width: 30%;
-    height: 800px;
-    margin-top: 35px;
 }
