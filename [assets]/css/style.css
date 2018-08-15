@@ -116,3 +116,35 @@ p {
     margin-left: 25px;
     margin-top: 50px;
 }
+
+.Nature {
+    width: 180px;
+    height: 236px;
+    padding-left: 180px;
+  }
+
+.Mountains {
+    width: 180px;
+    height: 236px;
+    padding-left: 180px;
+    float: right;
+}
+
+.Lights {
+    width: 180px;
+    height: 236px;
+    padding-left: 180px;
+}
+
+.Snowtops {
+    width: 180px;
+    height: 236px;
+    padding-left: 180px;
+    float: right;
+}
+
+.Avatar {
+    width: 180px;
+    height: 236px;
+    padding-left: 180px;
+}
